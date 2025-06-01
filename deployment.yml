@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: vk-container
-        image: tharanivarsha/vk-static-site:latest
+        image: tharanivarsha/website:latest
         ports:
         - containerPort: 80
